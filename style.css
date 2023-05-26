@@ -115,7 +115,7 @@ main {
 }
 
 .pro h2 {
-    width: 40%;
+    width: 100%;
     color: white;
     font-weight: 600;
 }
@@ -124,6 +124,7 @@ main {
     margin-bottom: 1rem;
 }
 
+/* 
 .status input {
     background: linear-gradient(
         to right bottom, 
@@ -136,6 +137,8 @@ main {
     padding: 0.55rem;
     border-radius: 2rem;
 }
+*/
+
 
 .games {
     margin: 5rem;
